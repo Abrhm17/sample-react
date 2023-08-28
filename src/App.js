@@ -40,7 +40,7 @@ export default function App() {
         />
             <Button
           text="DigitalOcean Dashboard"
-          url="%PUBLIC_URL%/lieb3.pdf"
+          url="lieb3.pdf"
         />
       </div>
     </div>
