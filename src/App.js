@@ -38,6 +38,10 @@ export default function App() {
           text="DigitalOcean Dashboard"
           url="https://cloud.digitalocean.com/apps"
         />
+            <Button
+          text="DigitalOcean Dashboard"
+          url="%PUBLIC_URL%/lieb3.pdf"
+        />
       </div>
     </div>
   );
